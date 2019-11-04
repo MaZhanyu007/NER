@@ -1,0 +1,11 @@
+2019-03-20 18:54:16,215 - train.log - INFO - Created model with fresh parameters.
+2019-03-20 18:54:17,730 - train.log - INFO - Load pre-trained embedding.
+2019-03-20 13:35:36,299 - train.log - INFO - Created model with fresh parameters.
+2019-03-20 13:35:37,118 - train.log - INFO - Load pre-trained embedding.
+2019-03-21 10:40:53,029 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-03-21 10:42:34,062 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-03-21 11:25:54,160 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-03-21 11:27:06,455 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-03-21 11:32:00,023 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-03-21 11:39:54,345 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-03-21 11:42:27,093 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
